@@ -5,4 +5,7 @@
 ???????,NewtonRhapson,variance,25
 ???????,NewtonRhapson,ttest,25
 ???????,LogisticGradDescent,ttest,25
-???????,LogisticGradDescent,variance,25
+0.82217,LogisticGradDescent,variance,25,200'000iters, alpha0.9 
+0.82217,LogisticGradDescent,variance,25,400'000iters, alpha0.9
+0.81380,LogisticGradDescent,30_features_by_variance,300'000iters, alpha0.9
+0.83054,LogisticGradDescent,22_features_by_variance,400'000iters, alpha0.9 <--- SUBMISSION 1
