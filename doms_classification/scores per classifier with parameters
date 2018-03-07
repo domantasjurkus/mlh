@@ -2,8 +2,8 @@
 0.80962,SkRandomTree,variance,25
 ???????,SkLogistigalRegression,ttest,25
 0.82217,SkLogistigalRegression,variance,25
-???????,NewtonRhapson,variance,25
-???????,NewtonRhapson,ttest,25
+0.82217,NewtonRhapson,variance,25
+0.78870,NewtonRhapson,ttest,25
 ???????,LogisticGradDescent,ttest,25
 0.82217,LogisticGradDescent,variance,25,200'000iters, alpha0.9 
 0.82217,LogisticGradDescent,variance,25,400'000iters, alpha0.9
